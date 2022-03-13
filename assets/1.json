@@ -1,0 +1,19 @@
+{
+    "name": "MY_BE_LOVE",
+    "symbol": "",
+    "image": "1.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "5QvjRDDqjsTAjzRurJSvyBi6R8xpZ1mPvy3iRW99zyeZ",
+          "share": 100
+        }
+      ]
+    }
+  }
